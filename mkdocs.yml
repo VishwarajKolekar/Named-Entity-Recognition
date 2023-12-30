@@ -9,8 +9,8 @@ site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: VishwarajKolekar/REPO_NAME
-repo_url: https://github.com/VishwarajKolekar/REPO_NAME
+repo_name: VishwarajKolekar/Named-Entity-Recognition
+repo_url: https://github.com/VishwarajKolekar/Named-Entity-Recognition
 
 # Configuration
 theme:
